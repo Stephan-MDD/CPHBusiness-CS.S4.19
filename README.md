@@ -7,8 +7,25 @@ Stephan Djurhuus @ CPHBusiness CS *(Computer Sience)*
     <div id="sidebar-bars">☰</div>
 </div>
 
+[introduktion](subjects/introduktion.md)
 
-## Collapsable views *(Github Pages)*
+## Architecture for Github Pages
+
+### Tables of content
+
+<div class="sidebar">
+    <a class="toc-ref" href="#_HEADER">_HEADER</a><br>
+    <div id="sidebar-bars">☰</div>
+</div>
+
+```html
+<div class="sidebar">
+    <a class="toc-ref" href="#_HEADER">_HEADER</a><br>
+    <div id="sidebar-bars">☰</div>
+</div>
+```
+
+### Collapsable views
 
 <div>
   <!-- title -->
@@ -42,7 +59,7 @@ Stephan Djurhuus @ CPHBusiness CS *(Computer Sience)*
 </div>
 ```
 
-## Answer containers *(Github Pages)*
+### Answer containers
 
 <div class="answer">This is an answer</div>
 
@@ -53,4 +70,4 @@ Stephan Djurhuus @ CPHBusiness CS *(Computer Sience)*
 ```
 
 
-[introduktion](subjects/introduktion.md)
+
