@@ -1,10 +1,7 @@
----
----
-
-@import "{{ site.theme }}";
+--- --- @import "{{ site.theme }}";
 
 :root {
-  --white-color: #fff;
+	--white-color: #fff;
 	--d-color: #5B6C8C;
 	--m-color: #DBE2F2;
 	--l-color: #F2F6FF;
@@ -12,17 +9,17 @@
 }
 
 body {
-    background-color: var(--white-color);
+	background-color: var(--white-color);
 }
 
 .page-header {
-  background-image: linear-gradient(var(--l-color), var(--l-color));
-  text-align: right;
+	background-image: linear-gradient(var(--l-color), var(--l-color));
+	text-align: right;
 	color: var(--d-color);
 }
 
 .main-content {
-    background-color: var(--white-color);
+	background-color: var(--white-color);
 	padding-left: 250px;
 }
 
@@ -35,15 +32,15 @@ a {
 }
 
 .sidebar {
-    position: fixed;
-    top: 0px;
-    left: 0px;
-    width: 200px;
-    height: 100%;
-    background-color: var(--m-color);
-    /*transition: 1s;*/
-    
-    padding: 15px;
+	position: fixed;
+	top: 0px;
+	left: 0px;
+	width: 200px;
+	height: 100%;
+	background-color: var(--m-color);
+	/*transition: 1s;*/
+
+	padding: 15px;
 	padding-top: 65px;
 }
 
@@ -60,32 +57,33 @@ a {
 }
 
 .toc-ref {
-    font-size: 14px;
-    padding: 10px;
+	font-size: 14px;
+	padding: 10px;
 	margin-bottom: 40px;
-    color: var(--d-color);
+	color: var(--d-color);
 }
 
 .toc-ref:hover {
-    text-decoration: none;
-    margin-left: -10px;
-    color: var(--w-color);
+	text-decoration: none;
+	margin-left: -10px;
+	color: var(--w-color);
 	transition: 0.5s;
 }
 
-.main-content h1, 
+.main-content h1,
 .main-content h2,
-.main-content h3{
-    color: #5B6C8C;
+.main-content h3 {
+	color: #5B6C8C;
 }
 
 .answer {
 	color: var(--white-color);
 	background-color: var(--w-color);
 	font-size: 16px;
-    	font-weight: bold;
+	font-weight: bold;
 	padding: 20px;
 }
+
 /*
 @media screen and (max-width: 1445px){
     .sidebar {
@@ -96,7 +94,8 @@ a {
 	}
 }
 */
-.main-content code, .main-content pre {
+.main-content code,
+.main-content pre {
 	background-color: var(--l-color);
 	border: solid 1px transparent;
 }
@@ -105,14 +104,16 @@ a {
 	background-color: transparent;
 }
 
+/* View on pages */
 .details,
 .show,
 .hide:target {
-  display: none;
+	display: none;
 }
-.hide:target + .show,
-.hide:target ~ .details {
-  display: inline-block;
+
+.hide:target+.show,
+.hide:target~.details {
+	display: inline-block;
 
 }
 
@@ -120,7 +121,6 @@ a {
 	font-size: 1.17em;
 }
 
-/* View on pages */
 #vop {
 	display: none;
 }
@@ -130,10 +130,11 @@ a.colapse {
 }
 
 .details {
-    width: 100%;
+	width: 100%;
 }
 
-summary {
-	font-size: 1.17em;
-	color: var(--w-color);
+.btn {
+	color: var(--white-color);
+	background-color: transparent;
+	border-color: transparent; 
 }

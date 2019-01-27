@@ -33,19 +33,6 @@ Stephan Djurhuus @ CPHBusiness CS *(Computer Sience)*
 
 ### Collapsable views
 
-<details>
-    <summary>Title 1</summary>
-   <div class="details" markdown="1">
-
-    ::test
-
-    ```js
-    arrow = () => {}
-    ```
-
-  </div>
-</details>
-
 <div>
   <!-- title -->
   <span class='colapse'>Arrow Function</span>
