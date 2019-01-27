@@ -5,7 +5,7 @@ Stephan Djurhuus @ CPHBusiness CS *(Computer Sience)*
     <div id="sidebar-bars">☰</div>
 </div>
 
-<a id='vop' href='https://cba-s4-javascript.github.io/iot-curriculum/'>View on Pages</a>
+<a id='vop' href='https://stephan-mdd.github.io/CPHBusiness-CS.S4.19/'>View on Pages</a>
 
 <div>
   <!-- title -->
