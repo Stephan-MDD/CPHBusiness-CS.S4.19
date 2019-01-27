@@ -1,4 +1,4 @@
---- --- @import "{{ site.theme }}";
+--- @import "{{ site.theme }}";
 
 :root {
 	--white-color: #fff;
@@ -131,10 +131,4 @@ a.colapse {
 
 .details {
 	width: 100%;
-}
-
-.btn {
-	color: var(--white-color);
-	background-color: transparent;
-	border-color: transparent; 
 }
