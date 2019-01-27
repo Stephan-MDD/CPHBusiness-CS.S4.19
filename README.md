@@ -36,15 +36,21 @@ Stephan Djurhuus @ CPHBusiness CS *(Computer Sience)*
   <br>
   <div class="details" markdown="1">
 
-  ### Content here...
+  Content here...
 
   </div>
 </div>
 ```
 
-<p class="answer">This is an answer</p>
+## Answer containers *(Github Pages)*
 
-<p class="answer">This is an<br>
-mutipleline answer</p>
+<div class="answer">This is an answer</div>
+
+```html
+<p class="answer">
+    Content here...
+</p>
+```
+
 
 [introduktion](subjects/introduktion.md)
