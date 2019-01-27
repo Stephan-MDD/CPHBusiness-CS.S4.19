@@ -7,7 +7,13 @@ Stephan Djurhuus @ CPHBusiness CS *(Computer Sience)*
     <div id="sidebar-bars">☰</div>
 </div>
 
-[introduktion](subjects/introduktion.md)
+## Contents
+
+* [python](subject/python/index.md)
+* [internet og things](subject/internet-of-things/index.md)
+* [fullstack java script](subject/fullstack.java-script/index.md)
+
+***
 
 ## Architecture for Github Pages
 
