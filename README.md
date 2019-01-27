@@ -36,9 +36,7 @@ Stephan Djurhuus @ CPHBusiness CS *(Computer Sience)*
   <br>
   <div class="details" markdown="1">
 
-  ```js
-  arrow = () => {}
-  ```
+  ### Content here...
 
   </div>
 </div>
