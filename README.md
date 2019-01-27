@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+# IOT Collection - 4. Semester 2019
+Stephan Djurhuus @ CPHBusiness CS *(Computer Sience)*
+<div class="sidebar">
+    <a class="toc-ref" href="#_HEADER">_HEADER</a><br>
+    <div id="sidebar-bars">☰</div>
+</div>
 
-You can use the [editor on GitHub](https://github.com/Stephan-MDD/CPHBusiness-CS.S4.19/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+<a id='vop' href='https://cba-s4-javascript.github.io/iot-curriculum/'>View on Pages</a>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<div>
+  <!-- title -->
+  <span class='colapse'>Arrow Function</span>
+  <!-- add unique ids -->
+  <a id="_hide" href="#_hide" class="hide colapse">&#x25c0;</a>
+  <a id="_show" href="#_show" class="show colapse">&#x25bc;</a>
+  <br>
+  <div class="details" markdown="1">
 
-### Markdown
+  ```js
+  arrow = () => {}
+  ```
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+  </div>
+</div>
 
-```markdown
-Syntax highlighted code block
+<p class="answer">This is an answer</p>
 
-# Header 1
-## Header 2
-### Header 3
+<p class="answer">This is an<br>
+mutipleline answer</p>
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Stephan-MDD/CPHBusiness-CS.S4.19/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[introduktion](subjects/introduktion.md)
