@@ -1,5 +1,5 @@
 # internet of things - IOT
-## introduktion *(w1)*
+## ardino communication protocol *(w8)*
 Stephan Djurhuus @ CPHBusiness CS *(Computer Sience)*
 <a id='vop' href='https://stephan-mdd.github.io/CPHBusiness-CS.S4.19/'>View on Pages</a>
 

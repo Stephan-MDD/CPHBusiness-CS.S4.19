@@ -1,5 +1,5 @@
 # internet of things - IOT
-## introduktion *(w1)*
+## 3D moddeling and print *(w11)*
 Stephan Djurhuus @ CPHBusiness CS *(Computer Sience)*
 <a id='vop' href='https://stephan-mdd.github.io/CPHBusiness-CS.S4.19/'>View on Pages</a>
 
