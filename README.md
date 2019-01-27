@@ -33,6 +33,11 @@ Stephan Djurhuus @ CPHBusiness CS *(Computer Sience)*
 
 ### Collapsable views
 
+<details>
+    <summary>Title 1</summary>
+    <div>Content 1 Content 1 Content 1 Content 1 Content 1</div>
+</details>
+
 <div>
   <!-- title -->
   <span class='colapse'>Arrow Function</span>
